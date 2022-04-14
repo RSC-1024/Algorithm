@@ -15,7 +15,7 @@ public class class04 {
                 gIndex++;
             }
         }
-        return gIndex+1;
+        return step1;
     }
 
 
