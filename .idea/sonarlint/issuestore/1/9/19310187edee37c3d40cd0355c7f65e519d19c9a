@@ -1,0 +1,13 @@
+
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅãÄºşÿÿÿÿ
+B
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ç²—¶şÿÿÿÿ
+ß
+java:S1598"ÅThis file "Code01_CordCoverMaxPoint.java" should be located in "a1/å·¦ç¥/dachang/class01" directory, not in "/Users/madanmei/Documents/Doc/2.0æŠ€æœ¯å­¦ä¹ /Algorithm/src/A1_å·¦ç¥/dachang/class01".(ÅãÄºşÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¢îãş
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(óŞâÅúÿÿÿÿ
+=
+java:S2140")Use "java.util.Random.nextInt()" instead.(«ö²„
+B
+java:S2140")Use "java.util.Random.nextInt()" instead.(¢“î‡ùÿÿÿÿ
+`	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œ²‰

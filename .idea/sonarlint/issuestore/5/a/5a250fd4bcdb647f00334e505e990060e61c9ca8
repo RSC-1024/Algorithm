@@ -1,0 +1,6 @@
+
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ï÷ë‚ýÿÿÿÿ
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅãÄºþÿÿÿÿ
+Ø
+java:S1598"¾This file "Code03_Near2Power.java" should be located in "a1/å·¦ç¥ž/dachang/class01" directory, not in "/Users/madanmei/Documents/Doc/2.0æŠ€æœ¯å­¦ä¹ /Algorithm/src/A1_å·¦ç¥ž/dachang/class01".(ÅãÄºþÿÿÿÿ
+`	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬œÝ·

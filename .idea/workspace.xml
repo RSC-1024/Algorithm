@@ -19,7 +19,56 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6607249b-0d7b-4f5e-8400-a26303834af6" name="Default Changelist" comment="" />
+    <list default="true" id="6607249b-0d7b-4f5e-8400-a26303834af6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/01 认识复杂度、对数器、二分法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/02 异或运算和几个经典题目解析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/03 链表结构、栈、队列、递归行为、哈希表和有序表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/04 归并排序.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/05 归并改写解决的面试题(续)、快速排序.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/06 比较器、堆结构、堆排序.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/07 与堆相关的面试题、加强堆的设计.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/08 trie、桶排序、排序总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/09 链表问题在面试中的考察重点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/10 二叉树常见面试题（上）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/11 二叉树常见面试题（下）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/12 二叉树递归套路解决树型dp类问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/13 贪心算法（上）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/14 贪心算法（下）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/15 并查集及其面试题目.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/16 图及其常见算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/17 认识一些经典递归过程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/18 暴力递归到动态规划(一).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/19 暴力递归到动态规划(二).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/20 暴力递归到动态规划(三).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/21 暴力递归到动态规划(四).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/22 暴力递归到动态规划（五）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/23 暴力递归到动态规划（六）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/24 窗口内最大值或最小值的更新结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/25 单调栈结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/26 由斐波那契数列讲述矩阵快速幂技巧.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/27 KMP算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/27 bfprt算法、蓄水池算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/28 Manacher算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/29 bfprt算法、蓄水池算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/30 Morris遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/31 线段树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/32 IndexTree、AC自动机.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/33 与哈希函数有关的结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/34 资源限制类题目的解题套路.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/35 有序表（上）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/36 有序表（中）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/37 有序表（下）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/38 根据对数器找规律、根据数据量猜解法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/39 根据数据量猜解法（续）、卡特兰数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/40 子数组达到规定累加和的最大长度系列问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/41 四边形不等式技巧（上）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/42 四边形不等式技巧（下）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/43 状态压缩的动态规划.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/44 DC3生成后缀数组详解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/45 后缀数组解决的面试题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/46 动态规划猜法中的外部信息简化（上）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)/47 动态规划猜法中的外部信息简化（下）.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,13 +86,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班/ppt(详细点)" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/A2_左神课堂笔记/100. 算法课程/01. 体系学习班" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/code/src" />
     </key>
@@ -59,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649858676455</updated>
       <workItem from="1649858677759" duration="2349000" />
-      <workItem from="1649915632730" duration="658000" />
+      <workItem from="1649915632730" duration="4199000" />
     </task>
     <servers />
   </component>
