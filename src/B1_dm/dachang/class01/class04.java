@@ -7,10 +7,11 @@ public class class04 {
         }
         char[] chars = s.toCharArray();
         int gIndex=0;
+        int step1 = 0;
         for (int i = 0; i <chars[i] ; i++) {
             if ('G'==chars[i]){
-                chars[i] =  chars[gIndex];
-                chars[gIndex] ='G';
+               //只能在相邻字符之间进行交换操作
+                step1 += i-gIndex;
                 gIndex++;
             }
         }
