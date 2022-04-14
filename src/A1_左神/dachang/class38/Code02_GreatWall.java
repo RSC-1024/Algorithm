@@ -1,4 +1,4 @@
-package a1.左神.dachang.class38;
+package dachang.class38;
 
 // 360笔试题
 // 长城守卫军

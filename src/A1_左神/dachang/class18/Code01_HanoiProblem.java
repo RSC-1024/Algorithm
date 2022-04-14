@@ -1,4 +1,4 @@
-package a1.左神.dachang.class18;
+package dachang.class18;
 
 public class Code01_HanoiProblem {
 

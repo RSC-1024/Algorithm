@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class10;
+package tixixuexi.class10;
 
 import java.util.Stack;
 

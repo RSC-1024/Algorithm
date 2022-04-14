@@ -1,5 +1,5 @@
 //不要拷贝包信息的内容
-package a1.左神.tixixuexi.class39;
+package tixixuexi.class39;
 
 //本文件是Code02_SnacksWays问题的牛客题目解答
 //但是用的分治的方法

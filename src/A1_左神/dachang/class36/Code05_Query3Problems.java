@@ -1,4 +1,4 @@
-package a1.左神.dachang.class36;
+package dachang.class36;
 
 // 来自美团
 // 给定一个数组arr，长度为N，做出一个结构，可以高效的做如下的查询

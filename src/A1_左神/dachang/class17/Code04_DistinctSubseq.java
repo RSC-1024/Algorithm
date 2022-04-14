@@ -1,4 +1,4 @@
-package a1.左神.dachang.class17;
+package dachang.class17;
 
 // 测试链接 : https://leetcode-cn.com/problems/21dk04/
 public class Code04_DistinctSubseq {

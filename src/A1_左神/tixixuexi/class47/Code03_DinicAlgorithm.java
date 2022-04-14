@@ -5,7 +5,7 @@
 // 不需要修改任何内容可以直接通过
 // 请看网页上的题目描述并结合main函数的写法去了解这个模板的用法
 
-package a1.左神.tixixuexi.class47;
+package tixixuexi.class47;
 
 import java.util.ArrayList;
 import java.util.Arrays;

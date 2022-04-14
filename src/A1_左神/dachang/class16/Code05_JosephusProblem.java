@@ -1,4 +1,4 @@
-package a1.左神.dachang.class16;
+package dachang.class16;
 
 // 本题测试链接 : https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/
 public class Code05_JosephusProblem {

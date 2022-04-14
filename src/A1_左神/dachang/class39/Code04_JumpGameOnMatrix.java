@@ -1,4 +1,4 @@
-package a1.左神.dachang.class39;
+package dachang.class39;
 
 // 来自京东
 // 给定一个二维数组matrix，matrix[i][j] = k代表:

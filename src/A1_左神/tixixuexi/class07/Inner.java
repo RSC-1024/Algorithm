@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class07;
+package tixixuexi.class07;
 
 public class Inner<T> {
 	public T value;

@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class19;
+package tixixuexi.class19;
 
 // 这个问题leetcode上可以直接测
 // 链接：https://leetcode.com/problems/longest-common-subsequence/

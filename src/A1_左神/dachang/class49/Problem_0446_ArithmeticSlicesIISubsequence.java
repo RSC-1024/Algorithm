@@ -1,4 +1,4 @@
-package a1.左神.dachang.class49;
+package dachang.class49;
 
 import java.util.ArrayList;
 import java.util.HashMap;

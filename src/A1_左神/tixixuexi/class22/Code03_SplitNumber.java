@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class22;
+package tixixuexi.class22;
 
 public class Code03_SplitNumber {
 

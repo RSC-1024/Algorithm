@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class17;
+package tixixuexi.class17;
 
 public class Edge {
 	public int weight;

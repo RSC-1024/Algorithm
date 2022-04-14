@@ -1,4 +1,4 @@
-package a1.左神.dachang.class38;
+package dachang.class38;
 
 // 来自字节
 // 给定两个数a和b

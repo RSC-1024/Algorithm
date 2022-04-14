@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class41;
+package tixixuexi.class41;
 
 // 四边形不等式：合并石子问题
 public class Code03_StoneMerge {

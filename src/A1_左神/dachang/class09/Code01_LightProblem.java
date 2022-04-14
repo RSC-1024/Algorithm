@@ -1,4 +1,4 @@
-package a1.左神.dachang.class09;
+package dachang.class09;
 
 /*
  * 给定一个数组arr，长度为N，arr中的值不是0就是1

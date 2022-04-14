@@ -1,4 +1,4 @@
-package a1.左神.dachang.class39;
+package dachang.class39;
 
 // 真实笔试，忘了哪个公司，但是绝对大厂
 // 一个子序列的消除规则如下:

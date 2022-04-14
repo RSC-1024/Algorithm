@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class37;
+package tixixuexi.class37;
 
 import java.util.HashSet;
 

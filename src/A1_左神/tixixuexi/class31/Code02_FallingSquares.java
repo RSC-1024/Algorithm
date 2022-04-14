@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class31;
+package tixixuexi.class31;
 
 import java.util.ArrayList;
 import java.util.HashMap;

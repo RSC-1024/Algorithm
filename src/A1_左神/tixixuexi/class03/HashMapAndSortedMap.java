@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class03;
+package tixixuexi.class03;
 
 import java.util.HashMap;
 import java.util.HashSet;

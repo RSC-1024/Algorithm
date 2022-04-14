@@ -1,4 +1,4 @@
-package a1.左神.dachang.class32;
+package dachang.class32;
 
 public class Problem_0189_RotateArray {
 

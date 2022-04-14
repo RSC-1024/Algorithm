@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class25;
+package tixixuexi.class25;
 
 // 测试链接：https://leetcode.com/problems/count-submatrices-with-all-ones
 public class Code05_CountSubmatricesWithAllOnes {

@@ -1,4 +1,4 @@
-package a1.左神.dachang.class06;
+package dachang.class06;
 
 // 测试链接 : https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
 public class Code03_MaximumXorWithAnElementFromArray {

@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class05;
+package tixixuexi.class05;
 
 // 这道题直接在leetcode测评：
 // https://leetcode.com/problems/count-of-range-sum/

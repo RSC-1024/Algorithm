@@ -1,4 +1,4 @@
-package a1.左神.dachang.class41;
+package dachang.class41;
 
 public class Problem_0031_NextPermutation {
 

@@ -1,4 +1,4 @@
-package a1.左神.dachang.class18;
+package dachang.class18;
 
 // 本题测试链接 : https://leetcode.com/problems/shortest-bridge/
 public class Code02_ShortestBridge {

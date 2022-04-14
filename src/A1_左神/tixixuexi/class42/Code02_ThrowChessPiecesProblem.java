@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class42;
+package tixixuexi.class42;
 
 // leetcode测试链接：https://leetcode.com/problems/super-egg-drop
 // 方法1和方法2会超时

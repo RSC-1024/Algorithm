@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class45;
+package tixixuexi.class45;
 
 // 最长公共子串问题是面试常见题目之一
 // 假设str1长度N，str2长度M

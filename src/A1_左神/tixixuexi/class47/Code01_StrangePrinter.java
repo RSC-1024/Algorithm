@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class47;
+package tixixuexi.class47;
 
 // 本题测试链接 : https://leetcode.com/problems/strange-printer/
 public class Code01_StrangePrinter {

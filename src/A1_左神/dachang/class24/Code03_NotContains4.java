@@ -1,4 +1,4 @@
-package a1.左神.dachang.class24;
+package dachang.class24;
 
 // 里程表不能含有4，给定一个数num，返回他是里程表里的第几个
 public class Code03_NotContains4 {

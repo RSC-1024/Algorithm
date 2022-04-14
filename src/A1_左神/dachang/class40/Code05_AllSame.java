@@ -1,4 +1,4 @@
-package a1.左神.dachang.class40;
+package dachang.class40;
 
 // 来自腾讯
 // 比如arr = {3,1,2,4}

@@ -1,4 +1,4 @@
-package a1.左神.dachang.class06;
+package dachang.class06;
 
 public class Code05_Nim {
 

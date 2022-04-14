@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class46;
+package tixixuexi.class46;
 
 // 本题测试链接 : https://leetcode.com/problems/remove-boxes/
 public class Code02_RemoveBoxes {

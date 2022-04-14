@@ -1,4 +1,4 @@
-package a1.左神.dachang.class41;
+package dachang.class41;
 
 // 来自小红书
 // 一个无序数组长度为n，所有数字都不一样，并且值都在[0...n-1]范围上

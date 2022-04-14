@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class33;
+package tixixuexi.class33;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

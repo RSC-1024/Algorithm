@@ -1,4 +1,4 @@
-package a1.左神.dachang.class03;
+package dachang.class03;
 
 // 本题测试链接 : https://leetcode.com/problems/longest-substring-without-repeating-characters/
 public class Code01_LongestSubstringWithoutRepeatingCharacters {

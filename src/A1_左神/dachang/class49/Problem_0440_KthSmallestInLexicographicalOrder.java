@@ -1,4 +1,4 @@
-package a1.左神.dachang.class49;
+package dachang.class49;
 
 // 这道题在leetcode上，所有题解都只能做到O( (logN) 平方)的解
 // 我们课上讲的是O(logN)的解

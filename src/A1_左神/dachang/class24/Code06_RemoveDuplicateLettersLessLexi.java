@@ -1,4 +1,4 @@
-package a1.左神.dachang.class24;
+package dachang.class24;
 
 // 本题测试链接 : https://leetcode.com/problems/remove-duplicate-letters/
 public class Code06_RemoveDuplicateLettersLessLexi {

@@ -1,4 +1,4 @@
-package a1.左神.dachang.class08;
+package dachang.class08;
 
 // 本题测试链接 : https://leetcode.com/problems/container-with-most-water/
 public class Code02_ContainerWithMostWater {

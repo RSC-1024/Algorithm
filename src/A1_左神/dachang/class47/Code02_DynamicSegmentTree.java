@@ -1,4 +1,4 @@
-package a1.左神.dachang.class47;
+package dachang.class47;
 
 // 同时支持范围增加 + 范围修改 + 范围查询的动态开点线段树（累加和）
 // 真的用到！才去建立

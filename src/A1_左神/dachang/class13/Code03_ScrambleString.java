@@ -1,4 +1,4 @@
-package a1.左神.dachang.class13;
+package dachang.class13;
 
 // 本题测试链接 : https://leetcode.com/problems/scramble-string/
 public class Code03_ScrambleString {

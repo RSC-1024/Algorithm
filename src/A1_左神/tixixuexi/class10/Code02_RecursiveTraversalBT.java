@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class10;
+package tixixuexi.class10;
 
 public class Code02_RecursiveTraversalBT {
 

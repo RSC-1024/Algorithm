@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class35;
+package tixixuexi.class35;
 
 public class Code01_AVLTreeMap {
 

@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class32;
+package tixixuexi.class32;
 
 import java.util.LinkedList;
 import java.util.Queue;

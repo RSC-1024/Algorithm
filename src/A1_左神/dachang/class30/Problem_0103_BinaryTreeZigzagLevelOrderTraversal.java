@@ -1,4 +1,4 @@
-package a1.左神.dachang.class30;
+package dachang.class30;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

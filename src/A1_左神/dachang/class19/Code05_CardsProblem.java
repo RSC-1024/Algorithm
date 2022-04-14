@@ -1,4 +1,4 @@
-package a1.左神.dachang.class19;
+package dachang.class19;
 
 import java.util.LinkedList;
 

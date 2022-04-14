@@ -1,4 +1,4 @@
-package a1.左神.dachang.class35;
+package dachang.class35;
 
 // 来自网易
 // 给定一个正数数组arr，表示每个小朋友的得分

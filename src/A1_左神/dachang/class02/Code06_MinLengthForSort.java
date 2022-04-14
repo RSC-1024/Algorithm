@@ -1,4 +1,4 @@
-package a1.左神.dachang.class02;
+package dachang.class02;
 
 // 本题测试链接 : https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 public class Code06_MinLengthForSort {

@@ -1,4 +1,4 @@
-package a1.左神.dachang.class37;
+package dachang.class37;
 
 // 来自字节
 // 扑克牌中的红桃J和梅花Q找不到了，为了利用剩下的牌做游戏，小明设计了新的游戏规则

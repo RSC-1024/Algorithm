@@ -1,4 +1,4 @@
-package a1.左神.dachang.class29;
+package dachang.class29;
 
 public class Problem_0062_UniquePaths {
 

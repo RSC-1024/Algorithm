@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class40;
+package tixixuexi.class40;
 
 import java.util.TreeMap;
 

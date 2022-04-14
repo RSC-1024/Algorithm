@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class26;
+package tixixuexi.class26;
 
 public class Code03_ZeroLeftOneStringNumber {
 

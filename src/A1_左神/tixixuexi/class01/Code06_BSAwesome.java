@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class01;
+package tixixuexi.class01;
 
 public class Code06_BSAwesome {
 

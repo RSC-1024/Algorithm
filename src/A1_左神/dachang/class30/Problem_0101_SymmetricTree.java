@@ -1,4 +1,4 @@
-package a1.左神.dachang.class30;
+package dachang.class30;
 
 public class Problem_0101_SymmetricTree {
 

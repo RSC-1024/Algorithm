@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class15;
+package tixixuexi.class15;
 
 // 本题为leetcode原题
 // 测试链接：https://leetcode.com/problems/friend-circles/

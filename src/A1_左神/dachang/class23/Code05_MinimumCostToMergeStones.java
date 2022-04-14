@@ -1,4 +1,4 @@
-package a1.左神.dachang.class23;
+package dachang.class23;
 
 // 本题测试链接 : https://leetcode.com/problems/minimum-cost-to-merge-stones/
 public class Code05_MinimumCostToMergeStones {

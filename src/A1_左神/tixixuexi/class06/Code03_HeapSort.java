@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class06;
+package tixixuexi.class06;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;

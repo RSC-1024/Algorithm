@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class08;
+package tixixuexi.class08;
 
 import java.util.HashMap;
 

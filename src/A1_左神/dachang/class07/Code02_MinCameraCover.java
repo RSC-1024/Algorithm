@@ -1,4 +1,4 @@
-package a1.左神.dachang.class07;
+package dachang.class07;
 
 // 本题测试链接 : https://leetcode.com/problems/binary-tree-cameras/
 public class Code02_MinCameraCover {

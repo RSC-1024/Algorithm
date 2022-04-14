@@ -1,4 +1,4 @@
-package a1.左神.dachang.class23;
+package dachang.class23;
 
 public class Code02_MaxABSBetweenLeftAndRight {
 

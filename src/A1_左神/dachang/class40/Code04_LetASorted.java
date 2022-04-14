@@ -1,4 +1,4 @@
-package a1.左神.dachang.class40;
+package dachang.class40;
 
 // 给定两个数组A和B，长度都是N
 // A[i]不可以在A中和其他数交换，只可以选择和B[i]交换(0<=i<n)

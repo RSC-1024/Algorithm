@@ -1,4 +1,4 @@
-package a1.左神.dachang.class39;
+package dachang.class39;
 
 // 来自腾讯
 // 给定一个只由0和1组成的字符串S，假设下标从1开始，规定i位置的字符价值V[i]计算方式如下 : 

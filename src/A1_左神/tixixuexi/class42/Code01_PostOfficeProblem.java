@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class42;
+package tixixuexi.class42;
 
 import java.util.Arrays;
 

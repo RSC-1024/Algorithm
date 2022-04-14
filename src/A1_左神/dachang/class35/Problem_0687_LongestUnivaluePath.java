@@ -1,4 +1,4 @@
-package a1.左神.dachang.class35;
+package dachang.class35;
 
 public class Problem_0687_LongestUnivaluePath {
 

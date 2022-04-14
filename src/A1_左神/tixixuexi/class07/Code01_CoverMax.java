@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class07;
+package tixixuexi.class07;
 
 import java.util.Arrays;
 import java.util.Comparator;

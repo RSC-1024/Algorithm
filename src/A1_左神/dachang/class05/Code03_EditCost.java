@@ -1,4 +1,4 @@
-package a1.左神.dachang.class05;
+package dachang.class05;
 
 public class Code03_EditCost {
 

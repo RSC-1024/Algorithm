@@ -1,4 +1,4 @@
-package a1.左神.dachang.class18;
+package dachang.class18;
 
 // 牛客的测试链接：
 // https://www.nowcoder.com/practice/7201cacf73e7495aa5f88b223bbbf6d1

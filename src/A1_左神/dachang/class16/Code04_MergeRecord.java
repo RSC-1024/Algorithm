@@ -1,4 +1,4 @@
-package a1.左神.dachang.class16;
+package dachang.class16;
 
 public class Code04_MergeRecord {
 	

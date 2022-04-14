@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class44;
+package tixixuexi.class44;
 
 public class DC3 {
 

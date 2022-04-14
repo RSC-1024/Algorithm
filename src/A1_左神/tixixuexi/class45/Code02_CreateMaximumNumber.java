@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class45;
+package tixixuexi.class45;
 
 // 测试链接: https://leetcode.com/problems/create-maximum-number/
 public class Code02_CreateMaximumNumber {

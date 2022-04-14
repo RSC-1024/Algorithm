@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class09;
+package tixixuexi.class09;
 
 public class Code03_SmallerEqualBigger {
 

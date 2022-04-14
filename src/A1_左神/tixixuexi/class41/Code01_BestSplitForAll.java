@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class41;
+package tixixuexi.class41;
 
 public class Code01_BestSplitForAll {
 

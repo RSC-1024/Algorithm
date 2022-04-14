@@ -1,4 +1,4 @@
-package a1.左神.dachang.class51;
+package dachang.class51;
 
 public class Problem_0875_KokoEatingBananas {
 

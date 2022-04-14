@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class26;
+package tixixuexi.class26;
 
 // 测试链接：https://leetcode.com/problems/sum-of-subarray-minimums/
 // subArrayMinSum1是暴力解

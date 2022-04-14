@@ -1,4 +1,4 @@
-package a1.左神.dachang.class10;
+package dachang.class10;
 
 // 测试链接 : https://leetcode.com/problems/k-inverse-pairs-array/
 public class Code03_KInversePairs {

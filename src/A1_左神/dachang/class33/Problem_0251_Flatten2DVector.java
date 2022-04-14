@@ -1,4 +1,4 @@
-package a1.左神.dachang.class33;
+package dachang.class33;
 
 public class Problem_0251_Flatten2DVector {
 

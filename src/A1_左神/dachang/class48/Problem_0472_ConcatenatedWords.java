@@ -1,4 +1,4 @@
-package a1.左神.dachang.class48;
+package dachang.class48;
 
 import java.util.ArrayList;
 import java.util.Arrays;

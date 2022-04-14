@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class29;
+package tixixuexi.class29;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

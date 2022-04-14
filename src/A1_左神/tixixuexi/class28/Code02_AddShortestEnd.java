@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class28;
+package tixixuexi.class28;
 
 public class Code02_AddShortestEnd {
 

@@ -1,4 +1,4 @@
-package a1.左神.dachang.class37;
+package dachang.class37;
 
 public class Problem_0226_InvertBinaryTree {
 

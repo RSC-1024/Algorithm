@@ -1,4 +1,4 @@
-package a1.左神.dachang.class03;
+package dachang.class03;
 
 // 本题测试链接 : https://leetcode.com/problems/largest-1-bordered-square/
 public class Code03_Largest1BorderedSquare {

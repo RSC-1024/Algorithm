@@ -1,4 +1,4 @@
-package a1.左神.dachang.class22;
+package dachang.class22;
 
 import java.util.HashMap;
 

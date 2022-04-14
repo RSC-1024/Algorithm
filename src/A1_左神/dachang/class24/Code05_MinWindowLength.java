@@ -1,4 +1,4 @@
-package a1.左神.dachang.class24;
+package dachang.class24;
 
 public class Code05_MinWindowLength {
 

@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class46;
+package tixixuexi.class46;
 
 import java.util.LinkedList;
 

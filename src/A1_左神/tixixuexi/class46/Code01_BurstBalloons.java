@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class46;
+package tixixuexi.class46;
 
 // 本题测试链接 : https://leetcode.com/problems/burst-balloons/
 public class Code01_BurstBalloons {

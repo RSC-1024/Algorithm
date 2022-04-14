@@ -1,4 +1,4 @@
-package a1.左神.dachang.class05;
+package dachang.class05;
 
 import java.util.Stack;
 

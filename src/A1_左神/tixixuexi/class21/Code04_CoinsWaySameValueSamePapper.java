@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class21;
+package tixixuexi.class21;
 
 import java.util.HashMap;
 import java.util.Map.Entry;

@@ -1,4 +1,4 @@
-package a1.左神.dachang.class48;
+package dachang.class48;
 
 public class Problem_0483_SmallestGoodBase {
 

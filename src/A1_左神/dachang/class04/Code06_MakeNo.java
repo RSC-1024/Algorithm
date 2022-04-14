@@ -1,4 +1,4 @@
-package a1.左神.dachang.class04;
+package dachang.class04;
 
 public class Code06_MakeNo {
 

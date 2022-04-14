@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class44;
+package tixixuexi.class44;
 
 // 测试链接: https://leetcode.com/problems/last-substring-in-lexicographical-order/
 public class Code01_LastSubstringInLexicographicalOrder {

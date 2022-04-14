@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class38;
+package tixixuexi.class38;
 
 public class Code01_AppleMinBags {
 

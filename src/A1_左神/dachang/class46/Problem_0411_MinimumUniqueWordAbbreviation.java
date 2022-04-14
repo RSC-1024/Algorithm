@@ -1,4 +1,4 @@
-package a1.左神.dachang.class46;
+package dachang.class46;
 
 public class Problem_0411_MinimumUniqueWordAbbreviation {
 

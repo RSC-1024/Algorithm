@@ -1,4 +1,4 @@
-package a1.左神.dachang.class39;
+package dachang.class39;
 
 // 来自百度
 // 给定一个字符串str，和一个正数k

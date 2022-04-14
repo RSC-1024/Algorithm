@@ -1,4 +1,4 @@
-package a1.左神.dachang.class36;
+package dachang.class36;
 
 // 来自美团
 // () 分值为2

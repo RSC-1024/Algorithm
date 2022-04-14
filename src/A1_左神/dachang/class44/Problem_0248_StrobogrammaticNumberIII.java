@@ -1,4 +1,4 @@
-package a1.左神.dachang.class44;
+package dachang.class44;
 
 public class Problem_0248_StrobogrammaticNumberIII {
 

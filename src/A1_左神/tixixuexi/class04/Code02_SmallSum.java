@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class04;
+package tixixuexi.class04;
 
 public class Code02_SmallSum {
 

@@ -1,4 +1,4 @@
-package a1.左神.dachang.class02;
+package dachang.class02;
 
 import java.util.Arrays;
 import java.util.Comparator;

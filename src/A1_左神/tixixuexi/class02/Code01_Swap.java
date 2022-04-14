@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class02;
+package tixixuexi.class02;
 
 public class Code01_Swap {
 	

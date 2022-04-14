@@ -20,7 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6607249b-0d7b-4f5e-8400-a26303834af6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/B1_dm/dachang/class01/class04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B1_dm/dachang/class01/class04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B1_dm/dachang/class01/class05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code01_CordCoverMaxPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code01_CordCoverMaxPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code02_CountFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code02_CountFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code03_Near2Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code03_Near2Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code04_MinSwapStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code04_MinSwapStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code05_LongestIncreasingPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code05_LongestIncreasingPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code06_AOE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code06_AOE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code07_TargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class01/Code07_TargetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class02/Code01_ChooseWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class02/Code01_ChooseWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class02/Code02_Cola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class02/Code02_Cola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class02/Code03_ReceiveAndPrintOrderLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class02/Code03_ReceiveAndPrintOrderLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class02/Code04_Drive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class02/Code04_Drive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class03/Code03_Largest1BorderedSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class03/Code03_Largest1BorderedSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A1_左神/dachang/class15/Code02_BestTimeToBuyAndSellStockII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1_左神/dachang/class15/Code02_BestTimeToBuyAndSellStockII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B1_dm/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/B1_dm/note.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +88,7 @@
       <updated>1649858676455</updated>
       <workItem from="1649858677759" duration="2349000" />
       <workItem from="1649915632730" duration="4199000" />
-      <workItem from="1649943343668" duration="1126000" />
+      <workItem from="1649943343668" duration="2276000" />
     </task>
     <servers />
   </component>
@@ -98,5 +112,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="448" y="121" key="SettingsEditor/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1649916293819" />
+    <state x="661" y="280" width="598" height="490" key="find.popup" timestamp="1649945708444">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state x="661" y="280" width="598" height="490" key="find.popup/0.23.1920.1005/-1680.23.1680.1027@0.23.1920.1005" timestamp="1649945708444" />
   </component>
 </project>

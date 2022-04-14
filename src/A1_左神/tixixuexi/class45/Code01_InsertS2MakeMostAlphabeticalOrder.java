@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class45;
+package tixixuexi.class45;
 
 public class Code01_InsertS2MakeMostAlphabeticalOrder {
 

@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class39;
+package tixixuexi.class39;
 
 import java.util.HashSet;
 import java.util.TreeSet;

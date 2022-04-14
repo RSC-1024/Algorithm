@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class18;
+package tixixuexi.class18;
 
 public class Code01_RobotWalk {
 

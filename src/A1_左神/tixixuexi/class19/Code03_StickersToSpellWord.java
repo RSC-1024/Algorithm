@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class19;
+package tixixuexi.class19;
 
 import java.util.HashMap;
 

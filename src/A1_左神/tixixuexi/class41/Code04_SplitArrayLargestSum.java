@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class41;
+package tixixuexi.class41;
 
 // leetcode原题
 // 测试链接：https://leetcode.com/problems/split-array-largest-sum/

@@ -1,4 +1,4 @@
-package a1.左神.dachang.class10;
+package dachang.class10;
 
 // 本题测试链接 : https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/
 public class Code04_BSTtoDoubleLinkedList {

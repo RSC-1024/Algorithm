@@ -1,4 +1,4 @@
-package a1.左神.dachang.class08;
+package dachang.class08;
 
 /*
  * 给定一个char[][] matrix，也就是char类型的二维数组，再给定一个字符串word，

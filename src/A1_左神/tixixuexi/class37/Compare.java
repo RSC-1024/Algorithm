@@ -1,11 +1,11 @@
 /*
-package a1.左神.tixixuexi.class37;
+package tixixuexi.class37;
 
 import java.util.TreeMap;
 
-import a1.左神.tixixuexi.class35.Code01_AVLTreeMap;
-import a1.左神.tixixuexi.class36.Code01_SizeBalancedTreeMap;
-import a1.左神.tixixuexi.class36.Code02_SkipListMap;
+import tixixuexi.class35.Code01_AVLTreeMap;
+import tixixuexi.class36.Code01_SizeBalancedTreeMap;
+import tixixuexi.class36.Code02_SkipListMap;
 
 
 // 本文件为avl、sbt、skiplist三种结构的测试文件

@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class30;
+package tixixuexi.class30;
 
 public class Code01_MorrisTraversal {
 

@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class23;
+package tixixuexi.class23;
 
 public class Code03_NQueens {
 

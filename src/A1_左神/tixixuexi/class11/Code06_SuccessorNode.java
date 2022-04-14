@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class11;
+package tixixuexi.class11;
 
 public class Code06_SuccessorNode {
 

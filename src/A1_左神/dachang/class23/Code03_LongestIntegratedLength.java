@@ -1,4 +1,4 @@
-package a1.左神.dachang.class23;
+package dachang.class23;
 
 import java.util.Arrays;
 import java.util.HashSet;

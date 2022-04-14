@@ -1,4 +1,4 @@
-package a1.左神.dachang.class50;
+package dachang.class50;
 
 public class Problem_0600_NonnegativeIntegersWithoutConsecutiveOnes {
 

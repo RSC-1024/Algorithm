@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class27;
+package tixixuexi.class27;
 
 public class Code01_KMP {
 

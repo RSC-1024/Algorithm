@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class46;
+package tixixuexi.class46;
 
 // 如果一个字符相邻的位置没有相同字符，那么这个位置的字符出现不能被消掉
 // 比如:"ab"，其中a和b都不能被消掉

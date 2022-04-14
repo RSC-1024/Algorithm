@@ -1,4 +1,4 @@
-package a1.左神.dachang.class01;
+package dachang.class01;
 
 import java.util.Arrays;
 

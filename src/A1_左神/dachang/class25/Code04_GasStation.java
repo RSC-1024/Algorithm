@@ -1,4 +1,4 @@
-package a1.左神.dachang.class25;
+package dachang.class25;
 
 // 本题测试链接 : https://leetcode.com/problems/gas-station/
 // 注意本题的实现比leetcode上的问法更加通用

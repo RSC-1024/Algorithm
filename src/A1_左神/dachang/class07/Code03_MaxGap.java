@@ -1,4 +1,4 @@
-package a1.左神.dachang.class07;
+package dachang.class07;
 
 // 测试链接 : https://leetcode.com/problems/maximum-gap/
 public class Code03_MaxGap {

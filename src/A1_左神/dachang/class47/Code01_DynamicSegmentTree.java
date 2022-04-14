@@ -1,4 +1,4 @@
-package a1.左神.dachang.class47;
+package dachang.class47;
 
 // 只支持单点增加 + 范围查询的动态开点线段树（累加和）
 public class Code01_DynamicSegmentTree {

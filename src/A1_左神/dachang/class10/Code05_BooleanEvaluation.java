@@ -1,4 +1,4 @@
-package a1.左神.dachang.class10;
+package dachang.class10;
 
 // 本题测试链接 : https://leetcode-cn.com/problems/boolean-evaluation-lcci/
 public class Code05_BooleanEvaluation {

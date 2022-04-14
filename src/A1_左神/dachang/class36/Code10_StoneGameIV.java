@@ -1,4 +1,4 @@
-package a1.左神.dachang.class36;
+package dachang.class36;
 
 // 来自哈喽单车
 // 本题是leetcode原题 : https://leetcode.com/problems/stone-game-iv/

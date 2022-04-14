@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class27;
+package tixixuexi.class27;
 
 import java.util.ArrayList;
 

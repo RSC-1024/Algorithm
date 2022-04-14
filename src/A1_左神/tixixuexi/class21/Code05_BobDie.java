@@ -1,4 +1,4 @@
-package a1.左神.tixixuexi.class21;
+package tixixuexi.class21;
 
 public class Code05_BobDie {
 

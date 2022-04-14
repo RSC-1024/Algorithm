@@ -1,4 +1,4 @@
-package a1.左神.dachang.class34;
+package dachang.class34;
 
 public class Problem_0328_OddEvenLinkedList {
 

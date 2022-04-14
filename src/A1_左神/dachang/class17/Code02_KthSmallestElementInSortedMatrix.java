@@ -1,4 +1,4 @@
-package a1.左神.dachang.class17;
+package dachang.class17;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
