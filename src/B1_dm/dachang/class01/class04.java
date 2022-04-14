@@ -1,4 +1,4 @@
-package b1.dm.dachang.class01;
+package dachang.class01;
 
 public class class04 {
     public static int move(String s) {
