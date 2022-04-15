@@ -1,10 +1,7 @@
 
-a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÑÁ„d
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅãÄºşÿÿÿÿ
-Ú
-java:S1598"¾This file "Code02_CountFiles.java" should be located in "a1/å·¦ç¥/dachang/class01" directory, not in "/Users/madanmei/Documents/Doc/2.0æŠ€æœ¯å­¦ä¹ /Algorithm/src/A1_å·¦ç¥/dachang/class01".(ÅãÄºşÿÿÿÿ
 k
 java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ù¿§éúÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(È¨£
 \
 java:S1075$"ARefactor your code to get this URI from a customizable parameter.(ÂÅøğşÿÿÿÿ
-N	java:S106%"9Replace this use of System.out or System.err by a logger.(È¨£
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÑÁ„d

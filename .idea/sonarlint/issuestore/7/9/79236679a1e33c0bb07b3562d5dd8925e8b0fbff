@@ -1,23 +1,20 @@
 
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(–¨€·ûÿÿÿÿ
-Í
-java:S1598"¸This file "Code02_Cola.java" should be located in "a1/å·¦ç¥/dachang/class02" directory, not in "/Users/madanmei/Documents/Doc/2.0æŠ€æœ¯å­¦ä¹ /Algorithm/src/A1_å·¦ç¥/dachang/class02".(¡Şäƒ
-L	java:S106"9Replace this use of System.out or System.err by a logger.(‰®
-K	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¼§
-L	java:S106"9Replace this use of System.out or System.err by a logger.(ßèÜ›
-B
-java:S2140")Use "java.util.Random.nextInt()" instead.(Õ…Ì´ùÿÿÿÿ
-`	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅÖ“Ÿ
-=
-java:S2140")Use "java.util.Random.nextInt()" instead.(í¢Êü
-B
-java:S2140")Use "java.util.Random.nextInt()" instead.(ô‡ß²úÿÿÿÿ
-=
-java:S2140")Use "java.util.Random.nextInt()" instead.(àÁøñ
-=
-java:S2140")Use "java.util.Random.nextInt()" instead.(ˆ°‹ 
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(¸íÆ¤ûÿÿÿÿ
-L	java:S106"9Replace this use of System.out or System.err by a logger.(Œá×÷
-m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡Şäƒ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(†Œòşÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(²¶“ìşÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(‰®
+E
+java:S2140ˆ")Use "java.util.Random.nextInt()" instead.(ô‡ß²úÿÿÿÿ
+@
+java:S2140„")Use "java.util.Random.nextInt()" instead.(ˆ°‹ 
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Œá×÷
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(†Œòşÿÿÿÿ
+@
+java:S2140‡")Use "java.util.Random.nextInt()" instead.(àÁøñ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(¸íÆ¤ûÿÿÿÿ
+@
+java:S2140†")Use "java.util.Random.nextInt()" instead.(í¢Êü
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(ßèÜ›
+E
+java:S2140…")Use "java.util.Random.nextInt()" instead.(Õ…Ì´ùÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(–¨€·ûÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅÖ“Ÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¼§
+T	java:S106"9Replace this use of System.out or System.err by a logger.(²¶“ìşÿÿÿÿ
