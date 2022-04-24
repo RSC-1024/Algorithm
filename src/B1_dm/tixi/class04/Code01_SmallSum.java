@@ -9,6 +9,10 @@ package tixi.class04;
 
 public class Code01_SmallSum {
     public static int getSmallSum(int[] arr) {
+        //notice:边界条件判定
+        if (arr==null || arr.length<2){
+            return 0;
+        }
         return process(arr, 0, arr.length - 1);
     }
 
