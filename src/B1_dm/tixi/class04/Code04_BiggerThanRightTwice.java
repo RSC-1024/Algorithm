@@ -7,8 +7,8 @@ package tixi.class04;
  * @version 1.0.0
  */
 
-public class Code01_SmallSum {
-    public static int getSmallSum(int[] arr) {
+public class Code04_BiggerThanRightTwice {
+    public static int bigerThanRightTwice(int[] arr) {
         //notice: 边界条件判定
         if (arr==null || arr.length<2){
             return 0;
@@ -22,7 +22,7 @@ public class Code01_SmallSum {
         }
         int m = l + ((r - l) >> 1);
 
-        //notice: sum 不用传入进去。递归想最外一层，sum 等于左右两个子集计算好的结果，再加上左右子集merge过程出现的数据即可
+
         return process(arr, l, m)
                 +
                 process(arr, m + 1, r)
@@ -32,15 +32,23 @@ public class Code01_SmallSum {
     }
 
     private static int merge(int[] arr, int l, int m, int r) {
+        int windows=m+1;
+        int ans=0;
+        for (int i = 0; i <= m; i++) {
+            while (windows<r && arr[i]<2*arr[windows]){
+                windows++;
+            }
+            //notice:windows -m -1  需要减1
+            ans=windows-m-1;
+        }
+
         int p1 = l;
         int p2 = m + 1;
-        int sum = 0;
         int p3 = 0;
         int[] help = new int[r - l + 1];
-        while (p1 <= m && p2 <= r) {
-            sum = arr[p1] < arr[p2] ? arr[p1] * (r - m + 1) : 0;
-            help[p3++] = arr[p1] < arr[p2] ? arr[p1++] : arr[p2++];
 
+        while (p1 <= m && p2 <= r) {
+            help[p3++] = arr[p1] < arr[p2] ? arr[p1++] : arr[p2++];
         }
         while (p1<=m){
             help[p3++]=arr[p1++];
@@ -51,6 +59,6 @@ public class Code01_SmallSum {
         for (int i = 0; i < help.length; i++) {
             arr[l + i] = help[i++];
         }
-        return sum;
+        return ans;
     }
 } 

@@ -108,10 +108,11 @@ public class Code03_ReversePair {
 		System.out.println();
 	}
 
+
 	// for test
 	public static void main(String[] args) {
-		int testTime = 500000;
-		int maxSize = 100;
+		int testTime = 100;
+		int maxSize = 20;
 		int maxValue = 100;
 		System.out.println("测试开始");
 		for (int i = 0; i < testTime; i++) {
