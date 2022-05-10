@@ -1,8 +1,8 @@
 package tixixuexi.class07;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.PriorityQueue;
+import mytx.class07.CoverMax;
+
+import java.util.*;
 
 public class Code01_CoverMax {
 
@@ -139,10 +139,10 @@ public class Code01_CoverMax {
 		int N = 100;
 		int L = 0;
 		int R = 200;
-		int testTimes = 200000;
+		int testTimes = 2000;
 		for (int i = 0; i < testTimes; i++) {
 			int[][] lines = generateLines(N, L, R);
-			int ans1 = maxCover1(lines);
+			int ans1 = getCoverMax(lines);
 			int ans2 = maxCover2(lines);
 			int ans3 = maxCover3(lines);
 			if (ans1 != ans2 || ans1 != ans3) {
@@ -151,5 +151,35 @@ public class Code01_CoverMax {
 		}
 		System.out.println("test end");
 	}
+
+
+	public static int getCoverMax(int[][] lines) {
+		//按起始位置排序
+		List<Line> list = new ArrayList<>(lines.length);
+		for (int i = 0; i < lines.length; i++) {
+			list.add(new Line(lines[i][0],lines[i][1]));
+		}
+		list.sort(new Comparator<Line>() {
+			@Override
+			public int compare(Line o1, Line o2) {
+				return o1.start-o2.start;
+			}
+		});
+		//最小堆
+		PriorityQueue<Integer> queue = new PriorityQueue();
+
+		Integer max =0;
+		for (int j = 0; j < list.size(); j++) {
+			//note : == 也需要移除
+			while (!queue.isEmpty()&& queue.peek()<=list.get(j).start){
+				queue.poll();
+			}
+			//note : 两个顺序需要调整
+			queue.offer(list.get(j).end);
+			max =Math.max(max,queue.size());
+		}
+		return max;
+	}
+
 
 }
