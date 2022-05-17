@@ -1,4 +1,4 @@
-package mytx.classo8;
+package mytx.class08;
 
 import java.util.Arrays;
 

@@ -1,6 +1,4 @@
-package mytx.classo8;
-
-import tixixuexi.class08.Code02_TrieTree;
+package mytx.class08;
 
 public class Code_TrieTree {
     public static class Node {
