@@ -1,4 +1,4 @@
-package dachang.class01;
+package B2_lx.dachang.class01;
 
 /**
  * @title: Algorithm
