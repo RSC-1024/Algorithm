@@ -42,6 +42,10 @@ public class Code02_EvenTimesOddTimes {
         System.out.println("一个"+eor1);
         System.out.println("另一个"+(eor ^ eor1));
     }
+    
+    public static void findRithtOne(int N){
+        int rightOne = N & ((~N)+1);
+    }
 
     public static void main(String[] args) {
         int[] arr = {3,8,2,4,3,9,4,2,9};
