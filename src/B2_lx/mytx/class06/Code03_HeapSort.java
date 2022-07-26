@@ -14,13 +14,17 @@ public class Code03_HeapSort {
         if (null == arr || arr.length <2){
             return;
         }
-        // 自上而下的堆排序 
+        // 自上而下的初始化 大根堆
         // O(N*logN) ：先for循环一遍N,然后 logN调整
-        for (int i = 0; i < arr.length; i++) {
-            heapInsert(arr,i);
-        }
-        // TODO: 2022/7/26 另外一种方法：自下而上的堆排序 
+        //for (int i = 0; i < arr.length; i++) {
+        //    heapInsert(arr,i);
+        //}
         
+        // 另外一种方法：自下而上的 初始化大根堆
+        // O(N)：倒序 依次是大根堆。
+        for (int i = arr.length - 1; i >= 0; i--) {
+            heapify(arr,i,arr.length);
+        }
         int heapSize = arr.length;
         swap(arr,0,--heapSize);
         while (heapSize>0){
